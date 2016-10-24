@@ -1,0 +1,10 @@
+{
+  "plugins": [
+    "transform-runtime"
+  ],
+  "compact": false,
+  "presets": [
+    "es2015",
+    "stage-0"
+  ]
+}
